@@ -1,0 +1,8 @@
+{
+  "name": "IonicPiner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ce95d57e"
+}
